@@ -24,7 +24,7 @@ const ContactForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post("http://localhost:5000/api/mail",data);
+      const response = await axios.post("https://ashwins-portfolio.onrender.com/api/mail",data);
       // console.log(data); 
       setSuccess(true);
     } catch (error) {
