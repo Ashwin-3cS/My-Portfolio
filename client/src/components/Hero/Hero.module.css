@@ -21,19 +21,20 @@
 }
 
 .title{
+    color:var(--color-text);
     font-size : 72px;
     font-weight: 900;
     /* margin-bottom : 33px; */
 
     font-family: var(--font-roboto);
     
-    background:linear-gradient(
+    /* background:linear-gradient(
         90deg,
     rgba(255,255,255,1)70%,
     rgba(255,255,255,0)120%
     );
     -webkit-text-fill-color : transparent;
-    -webkit-background-clip: text;
+    -webkit-background-clip: text; */
 }
 
 .description{
@@ -158,6 +159,10 @@
     /* 75% { transform: rotate(-10deg); } */
     /* 100% { transform: rotate(0deg); } */
   }
+
+  .dot{
+    display: none;
+  }
   
  
 
@@ -167,10 +172,6 @@
     }
     .content{
         align-items:center;
-    }
-
-    .hi{
-       display: none;
     }
 
     .heroImg{
@@ -191,5 +192,17 @@
     .title{
         margin-bottom: 33px;
     }
+    span{
+        display: none;
+    }
+
+    .hi{
+        display: none;
+    }
+
+
+
+    
+    
 }
 
