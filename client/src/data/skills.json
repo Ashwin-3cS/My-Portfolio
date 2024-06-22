@@ -1,0 +1,48 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Tailwind CSS",
+      "imageSrc": "skills/tailwind.png"
+    },
+    {
+      "title": "ReactJs",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "NextJs",
+      "imageSrc": "skills/nextjs.svg"
+    },
+
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "ExpressJs",
+      "imageSrc": "skills/express.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Solidity",
+      "imageSrc": "skills/solidity.png"
+    },
+    {
+      "title": "Web3Js",
+      "imageSrc": "skills/web3js.svg"
+    },
+    {
+      "title": "EthersJs",
+      "imageSrc": "skills/ethers.svg"
+    }
+
+  ]

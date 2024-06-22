@@ -1,0 +1,18 @@
+[
+    {
+      "title": "HiFly-ChatApp",
+      "imageSrc": "projects/chatApp.png",
+      "description": "Created a real-time Chat App to deepen expertise in full-stack development, employing modern web technologies.",
+      "skills": ["React", "Express", "Node","MongoDb","Tailwind"],
+      "demo": "https://chat-app-production-fbmf.onrender.com/",
+      "source": "https://github.com/Ashwin-3cS/chat-app-mern"
+    },
+    {
+      "title": "Milestones: A Blockchain-Enabled Tourism Application",
+      "imageSrc": "projects/milestones.png",
+      "description": "Developed a blockchain-based tourism app using Web3.js and Solidity. Users create travel milestones and earn crypto credits via Ether donations from business owners. This project enhanced my full-stack development skills",
+      "skills": ["React", "Express", "Node","MongoDb","Tailwind","Solidity","Web3Js","DaisyUi"],
+      "demo": "https://milestone-dapp.netlify.app/",
+      "source": "https://github.com/Ashwin-3cS/Milestone-Dapp"
+    }
+  ]
