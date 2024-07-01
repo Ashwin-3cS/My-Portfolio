@@ -14,5 +14,13 @@
       "skills": ["React", "Express", "Node","MongoDb","Tailwind","Solidity","Web3Js","DaisyUi"],
       "demo": "https://milestone-dapp.netlify.app/",
       "source": "https://github.com/Ashwin-3cS/Milestone-Dapp"
+    },
+    {
+      "title": "PromptHub: A Platform for Creative Prompts",
+      "imageSrc": "projects/prompthub.png",
+      "description": "PromptHub is a dynamic web application built with Next.js, MongoDB, Tailwind CSS, and Node.js. It serves as a collaborative platform where users can post and explore creative prompts online.  PromptHub fosters a community-driven environment to spark creativity and innovation.",
+      "skills": ["Nextjs", "Node","MongoDb","Tailwind"],
+      "demo": "https://prompthub.onrender.com/",
+      "source": "https://github.com/Ashwin-3cS/prompthub"
     }
   ]
